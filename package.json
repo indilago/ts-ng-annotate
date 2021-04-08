@@ -1,6 +1,6 @@
 {
   "name": "@indilago/ts-ng-annotate",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Add and fix dependency annotations of AngularJS on TypeScript files",
   "repository": {
     "type": "git",
