@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/indilago/ts-ng-annotate.git"
   },
-  "main": "index.js",
+  "main": "ts-ng-annotate",
   "scripts": {
     "lint": "tslint *.ts",
     "test": "ts-node run-tests.ts"
